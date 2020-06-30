@@ -15,6 +15,8 @@
     * [读写Excel表格](/java/读写Excel表格)
 * 非关系型数据库
     * [redis](/非关系型数据库/redis)
+* 消息中间件
+    * [RabbitMq](/消息中间件/RabbitMq)
 * 微服务
     * [SpringColud](/微服务/SpringColud)
     * [Eureka](/微服务/Eureka)
